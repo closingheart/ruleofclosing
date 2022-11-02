@@ -1,3 +1,28 @@
-# pikpak
-DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-SUFFIX,pikpak.com
+# pikpak 需要代理访问的名单
+; 前两个为地区检验网址
+
+OMAIN-SUFFIX,access.mypikpak.com
+DOMAIN-SUFFIX,access.mypikpak.net
+DOMAIN-SUFFIX,adjust.mypikpak.com
+DOMAIN-SUFFIX,api-audit.mypikpak.com
+DOMAIN-SUFFIX,api-drive.mypikpak.com
+DOMAIN-SUFFIX,api-drive.mypikpak.net
+DOMAIN-SUFFIX,api-feedback.mypikpak.com
+DOMAIN-SUFFIX,config.mypikpak.com
+DOMAIN-SUFFIX,copyright.mypikpak.com
+DOMAIN-SUFFIX,drive.mypikpak.com
+DOMAIN-SUFFIX,feedback.mypikpak.com
+DOMAIN-SUFFIX,i.mypikpak.com
+DOMAIN-SUFFIX,inapp.mypikpak.com
+DOMAIN-SUFFIX,info.mypikpak.com
+DOMAIN-SUFFIX,pay-gateway.mypikpak.com
+DOMAIN-SUFFIX,pay-gateway.mypikpak.net
+DOMAIN-SUFFIX,pay.mypikpak.com
+DOMAIN-SUFFIX,pay.mypikpak.net
+DOMAIN-SUFFIX,static.mypikpak.com
+DOMAIN-SUFFIX,toapp.mypikpak.com
+DOMAIN-SUFFIX,user.mypikpak.com
+DOMAIN-SUFFIX,user.mypikpak.net
+DOMAIN-SUFFIX,www.copyright.mypikpak.com
+DOMAIN-SUFFIX,www.drive.mypikpak.com
+DOMAIN-SUFFIX,www.mypikpak.com
