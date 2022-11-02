@@ -1,7 +1,7 @@
 # pikpak 需要代理访问的名单
 ; 前两个为地区检验网址
 
-OMAIN-SUFFIX,access.mypikpak.com
+DOMAIN-SUFFIX,access.mypikpak.com
 DOMAIN-SUFFIX,access.mypikpak.net
 DOMAIN-SUFFIX,adjust.mypikpak.com
 DOMAIN-SUFFIX,api-audit.mypikpak.com
