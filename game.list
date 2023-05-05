@@ -3,5 +3,8 @@ DOMAIN-SUFFIX,konami.net
 # EA
 DOMAIN-SUFFIX,ea.com
 DOMAIN-SUFFIX,origin.com
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,rtm.tnt-ea.com
+DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
 # Typekit是Adobe的托管Web字体服务
 DOMAIN-SUFFIX,typekit.net
