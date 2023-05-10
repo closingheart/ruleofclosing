@@ -6,6 +6,6 @@ DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,rtm.tnt-ea.com
 IP-CIDR,162.247.241.14/32,no-resolve
-DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
-# Typekit是Adobe的托管Web字体服务
+DOMAIN,cloudsync-prod.s3.amazonaws.com
+# Adobe的托管Web字体服务
 DOMAIN-SUFFIX,typekit.net
