@@ -1,4 +1,4 @@
-# 规则修正
+# 规则修正 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
 host, app.adjust.com, Shawn
 host, app.appsflyer.com, Shawn
 host, bdtj.tagtic.cn, Shawn
