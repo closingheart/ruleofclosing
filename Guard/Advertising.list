@@ -1,4 +1,4 @@
-# https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
+#广告拦截 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
 host-keyword, adservice, Shawn
 host, ad.51wnl-cq.com, Shawn
 host, adextra.51wnl-cq.com, Shawn
