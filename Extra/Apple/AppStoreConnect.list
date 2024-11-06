@@ -1,0 +1,4 @@
+#苹果服务 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/AppStoreConnect.list
+host, appstoreconnect.apple.com, Shawn
+host, iosapps-ssl.itunes.apple.com, Shawn
+host, itcmobile.itunes.apple.com, Shawn
