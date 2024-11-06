@@ -1,4 +1,6 @@
 #国内网站 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
+#bing
+host, cn.bing.com, Shawn
 host-suffix, flyert.com, Shawn
 host-suffix, gandi.net, Shawn
 host-suffix, snapdrop.net, Shawn
