@@ -1,4 +1,4 @@
-payload:
+﻿payload:
     - venmo.s3.amazonaws.com
     - +.account-paypal.info
     - +.account-paypal.net
@@ -6,8 +6,6 @@ payload:
     - +.accountpaypal.com
     - +.accountpaypal.net
     - +.accountpaypal.org
-    - +.anfutong.com
-    - +.beibao.com
     - +.bill-safe.com
     - +.billmelater.com
     - +.billmelater.info
@@ -232,15 +230,3 @@ payload:
     - +.xoomcom.com
     - +.paypal.com.hk
     - +.paypal.com.sg
-    - +.anfutong.cn
-    - +.anfutong.com.cn
-    - +.beibao.cn
-    - +.beibao.com.cn
-    - +.paypal.com.cn
-    - +.paypal.net.cn
-    - +.paypal.org.cn
-    - +.paypalcommunity.cn
-    - +.paypalhere.cn
-    - +.paypalhere.com.cn
-    - +.xn--bnq297cix3a.cn
-    - +.xoom.net.cn
