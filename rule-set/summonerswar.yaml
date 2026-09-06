@@ -1,0 +1,24 @@
+﻿# ========================================================
+# 分流策略: 🎮 魔灵召唤 (Summoners War & Com2uS Hive 平台)
+# 描述: 包含魔灵召唤各服核心通信与负载均衡、Hive平台与Com2uS全球服务域名
+# ========================================================
+payload:
+  # Com2uS & Hive 核心服务与游戏服务器调度 (核心负载均衡 summonerswar-*-lb.qpyou.cn 等)
+  - '+.qpyou.cn'
+  - '+.withhive.com'
+  - '+.withhive.me'
+  - '+.com2us.com'
+  - '+.com2us.net'
+  - '+.summonerswar.com'
+  - '+.summonerswar.co.kr'
+  - '+.hivesdk.com'
+  - '+.hivefn.com'
+  - '+.hiveplatform.ai'
+  - '+.c2s.com'
+  - '+.c2s-games.com'
+  - '+.gamevil.com'
+  - '+.gamevilcom2us.com'
+  # 魔灵召唤常用社区与辅助导出服务
+  - '+.swarfarm.com'
+  - '+.swop.one'
+  - '+.sw-exporter.com'
